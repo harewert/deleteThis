@@ -20,7 +20,7 @@
 	 - Полный
 
 
-![Image of chaser](https://i.pinimg.com/736x/d2/a1/ce/d2a1ce9c5e5ec0080bb94da2feb84b3c.jpg)
+![Image of chaser](https://s12.auto.drom.ru/photo/v2/Wi6ViHdAdGsLonK2YRRqaUfXjMP7eXtprMMQMCIkeAGINA9VBdEDK_jbhy1CjvaHqyXFmzO8UqvKqHci/gen1200.jpg)
 
 ## [Toyota Crown S170](https://auto.drom.ru/blagoveshchensk/toyota/crown/811034303.html "Необязательная подсказка, выводится при наведении курсора мыши")
 1. Двигатель 
@@ -37,4 +37,4 @@
  ------------ | -------------
 Toyota Crown S170| 800.000
 Toyota Chaser JX100| 970.000
-Toyota Mark 2 JX100| 800.000
+Toyota Mark 2 JX100| 850.000
