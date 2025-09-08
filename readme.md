@@ -7,8 +7,7 @@
 
 ![Image of crowm](https://i.pinimg.com/736x/05/46/78/054678eba424651efe2f0707ca5ad24f.jpg)
     
-## Toyota Chaser JX100
-<https://auto.drom.ru/vladivostok/toyota/chaser/340038680.html>
+## [Toyota Chaser JX100](https://auto.drom.ru/vladivostok/toyota/chaser/340038680.html "Необязательная подсказка, выводится при наведении курсора мыши")
 1. Двигатель 
    - 1JZ-GE (VVT-i)
 	 - 2JZ-GE (VVT-i) 
